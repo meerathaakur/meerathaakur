@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a strong focus
 - 🔭 I’m currently working on: **[finance-tracker ---> a MERN Stack Application]**
 - 🌱 I’m learning: **[React, Node.js, and Advanced JavaScript]**
 - 👯 I’m open to collaborate on: **[open-source projects, hackathons or research]**
-- 💬 Ask me about: **[JavaScript, Node.js, or MongoDB]**
+- 💬 Ask me about: **[JavaScript, Node.js, ExpressJs or MongoDB]**
 - 📫 How to reach me: **[mksharma121003@gmail.com or LinkedIn ---> (https://www.linkedin.com/in/meera-sharma-226b2725a/)]**
 - ⚡ Fun fact: **[I enjoy each line of code as if it were a piece of art, finding joy in solving problems and bringing logic to idyllic life.]**
 
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a strong focus
 
 ## 📂 Featured Projects
 Here are some of my notable projects:
-- **[food-dish](https://github.com/meerathaakur/food-dish)**: This is a food calories tracker application. Using QR code we can check food calories.
+- **[destination-recomendation-platform](https://github.com/meerathaakur/destination-platform)**: According to your choice we will recommend you the place where you can spend your quality time.
 - **[finance-tracker](https://github.com/meerathaakur/finance-tracker)**: This is finance tracker application. calculate savings, expenses, EMI, final calculation. Currently I'm working on it.
 
 --->
