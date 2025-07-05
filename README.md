@@ -44,8 +44,10 @@ Here are some of my notable projects:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meerathaakur&layout=compact&theme=radical)
 
+--->
+
 ##  Leet Code Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/username=meerasrma?theme=dark&font=Karma)
+![Leetcode Stats](https://leetcard.jacoblin.cool/meerasrma?theme=dark&font=Karma)
 
 --->
 
