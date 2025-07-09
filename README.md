@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a strong focus
 - 🌱 I’m learning: **[React, Node.js, and Advanced JavaScript]**
 - 👯 I’m open to collaborate on: **[open-source projects, hackathons or research]**
 - 💬 Ask me about: **[JavaScript, Node.js, ExpressJs or MongoDB]**
-- 📫 How to reach me: **[mksharma121003@gmail.com or LinkedIn ---> (https://www.linkedin.com/in/meera-sharma-226b2725a/)]**
+- 📫 How to reach me: **[meerasrmaa@gmail.com or LinkedIn ---> (https://www.linkedin.com/in/meera-sharma-226b2725a/)]**
 - ⚡ Fun fact: **[I enjoy each line of code as if it were a piece of art, finding joy in solving problems and bringing logic to idyllic life.]**
 
 --->
