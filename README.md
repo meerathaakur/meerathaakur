@@ -35,7 +35,7 @@ A **MERN stack developer** with a strong focus on **back-end development**. I lo
 ## 📂 Featured Projects
 Here are some of my notable projects:
 - **[destination-recommendation-platform](https://github.com/meerathaakur/destination-platform)**: According to your choice, we will recommend  a place where you can spend your quality time.
-- **[finance-tracker](https://github.com/meerathaakur/finance-tracker)**: This is finance tracker application. calculate savings, expenses, EMI, and the final calculation. Currently, I'm working on it.
+- **[fitness-buddy](https://github.com/meerathaakur/fitness-buddy)**: This is a social platform for fitness freaks. There are exercises based on score, contest, challenge of the day, buddies connection, chats, leaderboard, and many more
 
 ---
 
