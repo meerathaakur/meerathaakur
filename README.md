@@ -1,19 +1,19 @@
-## Hi I'm Meera Sharma 👋
+## Hi, I'm Meera Sharma 👋
 
 
-Welcome to my GitHub profile! I'm a **MERN stack developer** with a strong focus on **back-end development**. I love building scalable and efficient applications using [**MongoDB, Express.js, React, and Node.js**]. I love creating efficient APIs, working with databases, and optimizing back-end performance. I also interested in building scalable applications, contributing to open-source, and learning new technologies
+A **MERN stack developer** with a strong focus on **back-end development**. I love building scalable and efficient applications using [**MongoDB, Express.js, React, and Node.js**]. I love creating efficient APIs, working with databases, and optimizing back-end performance. I am also interested in building scalable applications, contributing to open-source, and learning new technologies. Solved easy and medium-level problems in an optimized way to improve problem-solving skills.
 
---->
+---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on: **[finance-tracker ---> a MERN Stack Application]**
-- 🌱 I’m learning: **[React, Node.js, and Advanced JavaScript]**
+- 🔭 I’m currently working on: **[fitness-buddy ---> a MERN Stack Application]**
+- 🌱 Skilled tech stack: **[React, Node.js and Advanced JavaScript]**
 - 👯 I’m open to collaborate on: **[open-source projects, hackathons or research]**
 - 💬 Ask me about: **[JavaScript, Node.js, ExpressJs or MongoDB]**
 - 📫 How to reach me: **[meerasrmaa@gmail.com or LinkedIn ---> (https://www.linkedin.com/in/meera-sharma-226b2725a/)]**
 - ⚡ Fun fact: **[I enjoy each line of code as if it were a piece of art, finding joy in solving problems and bringing logic to idyllic life.]**
 
---->
+---
 
 ## 🚀 Skills & Tools
 - **Languages:** [JavaScript, Basic Python]
@@ -30,30 +30,31 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a strong focus
 
 
 
---->
+---
 
 ## 📂 Featured Projects
 Here are some of my notable projects:
-- **[destination-recomendation-platform](https://github.com/meerathaakur/destination-platform)**: According to your choice we will recommend you the place where you can spend your quality time.
-- **[finance-tracker](https://github.com/meerathaakur/finance-tracker)**: This is finance tracker application. calculate savings, expenses, EMI, final calculation. Currently I'm working on it.
+- **[destination-recommendation-platform](https://github.com/meerathaakur/destination-platform)**: According to your choice, we will recommend  a place where you can spend your quality time.
+- **[finance-tracker](https://github.com/meerathaakur/finance-tracker)**: This is finance tracker application. calculate savings, expenses, EMI, and the final calculation. Currently, I'm working on it.
 
---->
+---
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=meerathaakur&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meerathaakur&layout=compact&theme=radical)
 
---->
+---
 
 ##  Leet Code Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/meerasrma?theme=dark&font=Karma)
 
---->
+---
 
 ## 🌐 Connect with Me
-- 🌍 [static-portfolio](https://github.com/meerathaakur/static-portfolio)
+- 🌍 [my-portfolio](https://my-portfolio-six-kappa-wm86d6carb.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/meera-sharma-226b2725a/)
 - 🐦 [Twitter](https://x.com/meerasrmaa/)
+- 📩 [Email](meerasrmaa@gmail.com)
 
 
